@@ -3,7 +3,7 @@
 
 인프런 강의를 바탕으로 한 스프링부트 Project 정리 (김영한 강사님)
 https://www.inflearn.com/course
-
+https://docs.spring.io/spring-boot/docs/2.3.10.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features
 ## 환경 설정 
  - 필요한 라이브러리 관리 툴
  - maven
@@ -197,7 +197,7 @@ Service에 붙으면 정상적으로 commit하고 이상이 있을경우에만 R
 ----------------------------------------------------------------------------------------------------------
 
 
-##AOP (Aspect Oriented Programming)
+## AOP (Aspect Oriented Programming)
 
 1. AOP가 필요한 상황
 - 모든 메소드의 호출 시간을 측정하고 싶다면?
