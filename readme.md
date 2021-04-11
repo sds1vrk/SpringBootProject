@@ -2,8 +2,8 @@
 ## 인프런 강의 
 
 인프런 강의를 바탕으로 한 스프링부트 Project 정리 (김영한 강사님)
-https://www.inflearn.com/course
-https://docs.spring.io/spring-boot/docs/2.3.10.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features
+1. https://www.inflearn.com/course
+2. https://docs.spring.io/spring-boot/docs/2.3.10.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features
 ## 환경 설정 
  - 필요한 라이브러리 관리 툴
  - maven
